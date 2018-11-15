@@ -28,6 +28,7 @@ http://loomx.io
 https://bigchaindb.com  
 https://status.im/  
 https://token.im  
+https://www.lianantech.com  
 
 # Game Programming
 http://phaser.io  
