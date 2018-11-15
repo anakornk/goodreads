@@ -29,6 +29,13 @@ https://bigchaindb.com
 https://status.im/  
 https://token.im  
 https://www.lianantech.com  
+https://etherscan.io/directory/Smart_Contracts/Smart_Contracts_Audit_And_Security  
+https://www.ethereum-alarm-clock.com/  
+https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-the-dai-stablecoin-e4481d79b90  
+https://bancor.network/  
+https://kyber.network/  
+https://solidity.readthedocs.io/en/v0.5.0/style-guide.html  
+
 
 # Game Programming
 http://phaser.io  
@@ -37,3 +44,4 @@ http://phaser.io
 https://sentry.io/  
 https://www.gitbook.com  
 http://jekyllrb.com  
+https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/  
