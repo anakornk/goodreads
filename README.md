@@ -35,6 +35,7 @@ https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-
 https://bancor.network/  
 https://kyber.network/  
 https://solidity.readthedocs.io/en/v0.5.0/style-guide.html  
+https://medium.com/coinmonks/ethereum-solidity-memory-vs-storage-which-to-use-in-local-functions-72b593c3703a  
 
 
 # Game Programming
