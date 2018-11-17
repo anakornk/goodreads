@@ -35,7 +35,11 @@ https://medium.com/cryptolinks/maker-for-dummies-a-plain-english-explanation-of-
 https://bancor.network/  
 https://kyber.network/  
 https://solidity.readthedocs.io/en/v0.5.0/style-guide.html  
-https://medium.com/coinmonks/ethereum-solidity-memory-vs-storage-which-to-use-in-local-functions-72b593c3703a  
+https://medium.com/coinmonks/ethereum-solidity-memory-vs-storage-which-to-use-in-local-functions-72b593c3703a 
+https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall).  
+https://solidity.readthedocs.io/en/v0.5.0/contracts.html#libraries  
+https://solidity.readthedocs.io/en/v0.5.0/control-structures.html#function-calls  
+ 
 
 
 # Game Programming
