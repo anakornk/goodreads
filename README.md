@@ -39,7 +39,8 @@ https://medium.com/coinmonks/ethereum-solidity-memory-vs-storage-which-to-use-in
 https://ethereum.stackexchange.com/questions/3667/difference-between-call-callcode-and-delegatecall).  
 https://solidity.readthedocs.io/en/v0.5.0/contracts.html#libraries  
 https://solidity.readthedocs.io/en/v0.5.0/control-structures.html#function-calls  
- 
+https://solidity.readthedocs.io/en/v0.5.0/common-patterns.html#example  (State Machine)
+
 
 
 # Game Programming
