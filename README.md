@@ -52,3 +52,4 @@ https://www.gitbook.com
 http://jekyllrb.com  
 https://www.tradingview.com/HTML5-stock-forex-bitcoin-charting-library/  
 https://learngitbranching.js.org/  
+https://www.digitalocean.com/community/tutorials/an-introduction-to-oauth-2  
